@@ -1,0 +1,36 @@
+.coolTitle {
+  text-align: center;
+  font-family: "Oswald", Helvetica, sans-serif;
+  font-size: 40px;
+  transform: skewY(0 deg);
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color: blue;
+  text-shadow: -1px -1px 0 rgb(91, 113, 238), -2px -2px 0 rgb(91, 113, 238),
+    -3px -3px 0 rgb(91, 113, 238), -4px -4px 0 rgb(91, 113, 238),
+    -5px -5px 0 rgb(91, 113, 238), -6px -6px 0 rgb(91, 113, 238),
+    -7px -7px 0 rgb(91, 113, 238), -8px -8px 0 rgb(91, 113, 238),
+    -30px 20px 40px dimgrey;
+}
+body {
+  color: gray;
+}
+h1,
+h2 {
+  font-family: "Segoe UI", Arial, sans-serif;
+  letter-spacing: 3px;
+  color: rgba(81, 81, 202, 0.726);
+  text-align: center;
+}
+
+#d1 {
+  align-items: center;
+  display: flex;
+  flex-flow: column;
+  margin: auto;
+}
+#ul.li {
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
